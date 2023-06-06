@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "commit 01 LuisAngel-ArmutoAbarca"
+git branch -M main
+git remote add origin + link del repositorio
+git push -u origin main
+git branch feature
+git checkout feature
+mkdir Hardware Software SeguridadInformatica
+git add .
+git commit -m "commit 02 LuisAngel-ArmutoAbarca"
+git push -u origin feature
+git checkout main
+git add .
